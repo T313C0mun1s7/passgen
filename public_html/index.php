@@ -47,7 +47,7 @@
         </div>
         <div class="formgroup">
             <label for="count">Number of Passwords: </label>
-            <input type="number" id="count" name="count" min="1" required value="1">
+            <input type="number" id="count" name="count" min="1" required value="10">
         </div>
         <div class="formgroup">
             <button type="submit">Generate Passwords</button>
